@@ -8,6 +8,8 @@ flight options for each match. **The whole backend is written in C++.** The fron
 The REST API is exactly the same as in the earlier Node version, so the React app and the Postman
 collection did not change.
 
+LIVE: https://frontend-five-opal-96.vercel.app/
+
 ---
 
 ## 1. Project structure
